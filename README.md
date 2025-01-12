@@ -2,7 +2,6 @@
 
 This repository is where i am putting all my study notes regarding AWS Certified Cloud Practitioner Exam.
 
-My study are based on [Stephane Maarek](https://github.com/simplesteph) content on Udemy Course.
 
 - [Cloud Computing](notes/cloud-computing/README.md)
 - [How AWS Works](notes/aws/README.md)
@@ -27,8 +26,3 @@ My study are based on [Stephane Maarek](https://github.com/simplesteph) content 
 - [Advanced Identity](notes/advanced-identity/README.md) (Cognito, Active Directory Services, SSO)
 - [Other Services](notes/other-services/README.md) (Amazon Workspaces, AppStream, Sumerian, IoT Core and Elastic Transcoder)
 - [AWS Architecting & Ecosystem](notes/aws-architecting-and-ecosystem/README.md) (Design Principles and Pillars: Operational Excellence, Security, Reliability, Performance Efficiency and Cost Optimization. AWS Ecosystem)
-
-
-
-
-"# aws-cloud-practitioner-notes" 
